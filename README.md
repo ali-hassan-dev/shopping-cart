@@ -1,6 +1,6 @@
 # Shopping Cart
 
-A simple shopping cart where users can add products to the cart. Users can then view their cart and update it. 
+A simple shopping cart where users can view products and add them to the cart. Users can then view their cart and update it. 
 
 ## Table of Contents
 
@@ -15,7 +15,6 @@ A simple shopping cart where users can add products to the cart. Users can then 
 1. `cp .env.example .env`
 1. Add your local database credentials in the .env file
 1. `php artisan migrate`
-1. `php artisan db:seed`
 1. `php artisan storage:link`
 1. `php artisan serve`
 
