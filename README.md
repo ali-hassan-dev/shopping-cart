@@ -10,7 +10,7 @@ A simple shopping cart where users can view products and add them to the cart. U
 ## Running Locally
 
 1. Clone this repo
-1. `cd jobs-app`
+1. `cd shopping-cart`
 1. `composer install`
 1. `cp .env.example .env`
 1. Add your local database credentials in the .env file
